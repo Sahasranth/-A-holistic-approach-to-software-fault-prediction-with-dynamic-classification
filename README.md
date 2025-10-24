@@ -7,3 +7,5 @@
 3)Dynamic Classifier Ensemble: Introduced a Dynamic Classifier combining multiple machine learning models, achieving 94.129% accuracy in fault prediction.
 
 4)Superior Performance: The proposed approach outperforms standard algorithms like Random Forest and Decision Trees, offering more accurate and efficient fault prediction.
+
+Read Paper:https://link.springer.com/article/10.1007/s10515-024-00467-4
