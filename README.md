@@ -2,6 +2,7 @@
 
 Overview
 This research introduces a Dynamic Classifier Model for Software Fault Prediction (SFP) — an innovative ensemble-based approach designed to enhance the accuracy and reliability of fault detection in software systems.
+
 Traditional fault prediction methods often face challenges such as class imbalance, suboptimal feature selection, and inconsistent model performance. To overcome these limitations, this study integrates Random Over-Sampling, Ant Colony Optimization (ACO), and Grid Search Hyperparameter Tuning into a unified framework. The proposed approach demonstrates significant improvements over conventional models such as Random Forest and Decision Tree.
 
 Objective
